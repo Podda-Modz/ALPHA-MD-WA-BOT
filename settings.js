@@ -12,10 +12,10 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94784506970']
-global.premium = ['94784506970']
-global.ownernomer = '94784506970'
-global.ownername = 'Achi Fernando'
+global.owner = ['94763233707']
+global.premium = ['94763233707']
+global.ownernomer = '94763233707'
+global.ownername = 'Mr.Lakiya'
 global.botname = '🎭ᴀʟᴘʜᴀ ᴡʜᴀᴛꜱᴀᴘᴘ ʙᴏᴛ-ᴍᴅ ᴇᴅɪᴛɪᴏɴ🎭 v1.0.0'
 global.footer = ' ᴀʟᴘʜᴀ ʙᴏᴛ-ᴍᴅ ᴇᴅɪᴛɪᴏɴ'
 global.ig = 'https://github.com/ALPHA-OFFICIAL-TEAM'
